@@ -2,11 +2,12 @@
 
 This repository will contain materials for the Erdős Institute's 2022 Cőde Data Science Boot Camp programming, https://www.erdosinstitute.org/code. 
 
-## YouTube Playlist
+To see what you need to as preparation steps for the boot camp click here, https://www.erdosinstitute.org/data-science.
 
-This educational series will have a corresponding YouTube playlist found at this link, https://www.youtube.com/playlist?list=PLxHRfz60za2wMKMMPHBcrmBcccqx7cwyw.
 
-This playlist is currently empty and will be updated in early 2022 with set up and python prep materials.
+## Python Prep
+
+This folder contains all of the python prep content for the boot camp. Those of you looking to get acquainted with python or just wanting a quick refresher should start here!
 
 
 
