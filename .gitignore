@@ -1,2 +1,4 @@
 matt_api_info.py
 __pycache__
+.DS_Store
+.ipynb_checkpoints/
