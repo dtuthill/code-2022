@@ -26,6 +26,15 @@ In week 1 we will cover most of the notebooks in:
 
 <i>* Some of the material in these folders will be covered in weeks 2 or 3.</i>
 
+### Actually Covered in Lecture
+
+#### Day 1
+
+- `Introduction/A Broad Overview`
+- `Data Collection/Data in Databases`
+- `Data Collection/Web Scraping with BeautifulSoup`
+- `Data Collection/Python and APIs`
+
 ## Problem Sessions
 
 This folder contains the jupyter notebooks we will use in our problem sessions.
