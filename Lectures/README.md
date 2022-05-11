@@ -31,3 +31,22 @@ You can consume the notebooks in whatever order you would like, but here is a su
     - `Supervised Learning/Regression/9. Feature Selection Approaches`.
 - All `Supervised Learning/Time Series Forecasting` notebooks in order,
 
+
+## Synchronous Lecture Notebook Order
+
+Here is the order in which we covered the lecture notebooks in our synchronous Zoom lectures.
+
+### Day 1
+
+- `Introduction/1. A Broad Overview`
+- `Data Collection/4. Data in Databases`
+- `Data Collection/5. Web Scraping with BeautifulSoup`
+- `Data Collection/6. Python and APIs`
+
+### Day 2
+
+- `Supervised Learning/2. A Supervised Learning Framework`
+- `Supervised Learning/3. Data Splits for Predictive Modeling`
+- `Supervised Learning/Regression/1. Simple Linear Regression`
+- `Supervised Learning/Regression/2. A First Predictive Modeling Project`
+
