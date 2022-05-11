@@ -35,6 +35,13 @@ In week 1 we will cover most of the notebooks in:
 - `Data Collection/Web Scraping with BeautifulSoup`
 - `Data Collection/Python and APIs`
 
+#### Day 2
+
+- `Supervised Learning/A Supervised Learning Framework`
+- `Supervised Learning/Data Splits for Predictive Modeling`
+- `Supervised Learning/Regression/Simple Linear Regression`
+- `Supervised Learning/Regression/A First Predictive Modeling Project`
+
 ## Problem Sessions
 
 This folder contains the jupyter notebooks we will use in our problem sessions.
