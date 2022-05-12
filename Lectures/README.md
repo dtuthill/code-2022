@@ -50,3 +50,10 @@ Here is the order in which we covered the lecture notebooks in our synchronous Z
 - `Supervised Learning/Regression/1. Simple Linear Regression`
 - `Supervised Learning/Regression/2. A First Predictive Modeling Project`
 
+### Day 3
+
+- `Supervised Learning/Regression/3. Multiple Linear Regression`
+- `Supervised Learning/Regression/4. Categorical Variables and Interactions`
+- `Supervised Learning/Regression/5. Polynomial Regression`
+- `Supervised Learning/4. Bias-Variance Trade-Off`
+

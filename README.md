@@ -42,6 +42,13 @@ In week 1 we will cover most of the notebooks in:
 - `Supervised Learning/Regression/Simple Linear Regression`
 - `Supervised Learning/Regression/A First Predictive Modeling Project`
 
+#### Day 3
+
+- `Supervised Learning/Regression/Multiple Linear Regression`
+- `Supervised Learning/Regression/Categorical Variables and Interactions`
+- `Supervised Learning/Regression/Polynomial Regression`
+- `Supervised Learning/Bias-Variance Trade-Off`
+
 ## Problem Sessions
 
 This folder contains the jupyter notebooks we will use in our problem sessions.
