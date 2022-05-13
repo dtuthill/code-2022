@@ -49,11 +49,18 @@ In week 1 we will cover most of the notebooks in:
 - `Supervised Learning/Regression/Polynomial Regression`
 - `Supervised Learning/Bias-Variance Trade-Off`
 
+#### Day 4
+
+- `Cleaning/Scaling Data`
+- `Cleaning/Basic Pipelines`
+- `Supervised Learning/Regression/Regularization`
+- `Supervised Learning/Regression/Feature Selection Approaches`
+
 ## Problem Sessions
 
 This folder contains the jupyter notebooks we will use in our problem sessions.
 
-### Tentative Schedule
+### Schedule
 
 #### Week 1
 
@@ -70,6 +77,22 @@ This folder contains the jupyter notebooks we will use in our problem sessions.
 - `Problem Sessions/Problem Session 2`
 - `Problem Sessions/Problem Session 3`
 - `Problem Sessions/Problem Session 4`
+
+#### Week 2
+
+##### Prep Session Notebooks
+
+- `Problem Sessions/Prep Notebooks/Prep Notebook 5`
+- `Problem Sessions/Prep Notebooks/Prep Notebook 6`
+- `Problem Sessions/Prep Notebooks/Prep Notebook 7`
+- `Problem Sessions/Prep Notebooks/Prep Notebook 8`
+
+##### Problem Session Notebooks
+
+- `Problem Sessions/Problem Session 5`
+- `Problem Sessions/Problem Session 6`
+- `Problem Sessions/Problem Session 7`
+- `Problem Sessions/Problem Session 8`
 
 ## Practice Problems
 

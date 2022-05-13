@@ -57,3 +57,10 @@ Here is the order in which we covered the lecture notebooks in our synchronous Z
 - `Supervised Learning/Regression/5. Polynomial Regression`
 - `Supervised Learning/4. Bias-Variance Trade-Off`
 
+### Day 4
+
+- `Cleaning/2. Scaling Data`
+- `Cleaning/3. Basic Pipelines`
+- `Supervised Learning/Regression/5. Regularization`
+- `Supervised Learning/Regression/9. Feature Selection Approaches`
+
