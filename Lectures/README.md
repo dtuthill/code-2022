@@ -30,6 +30,10 @@ You can consume the notebooks in whatever order you would like, but here is a su
     - `Supervised Learning/Regression/8. Linear Regression Diagnostic Plots`,
     - `Supervised Learning/Regression/9. Feature Selection Approaches`.
 - All `Supervised Learning/Time Series Forecasting` notebooks in order,
+- `Supervised Learning/Classification` notebooks 1-6,
+- `Unsupervised Learning/Dimension Reduction` notebook 1,
+- `Supervised Learning/Classification` notebooks 7-9,
+- All `Supervised Learning/Ensemble Learning` notebooks,
 
 
 ## Synchronous Lecture Notebook Order
@@ -63,4 +67,11 @@ Here is the order in which we covered the lecture notebooks in our synchronous Z
 - `Cleaning/3. Basic Pipelines`
 - `Supervised Learning/Regression/5. Regularization`
 - `Supervised Learning/Regression/9. Feature Selection Approaches`
+
+### Day 5
+
+- `Supervised Learning/Time Series Forecasting/1. What are Time Series and Forecasting`
+- `Supervised Learning/Time Series Forecasting/2. Adjustments for Time Series Data`
+- `Supervised Learning/Time Series Forecasting/4. Baseline Forecasts`
+
 

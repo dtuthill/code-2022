@@ -26,6 +26,12 @@ In week 1 we will cover most of the notebooks in:
 
 <i>* Some of the material in these folders will be covered in weeks 2 or 3.</i>
 
+#### Week 2
+
+In week 2 we will cover notebooks in:
+- `Lectures/Supervised Learning/Time Series Forecasting` and
+- `Lectures/Supervised Learning/Classification`.
+
 ### Actually Covered in Lecture
 
 #### Day 1
@@ -55,6 +61,12 @@ In week 1 we will cover most of the notebooks in:
 - `Cleaning/Basic Pipelines`
 - `Supervised Learning/Regression/Regularization`
 - `Supervised Learning/Regression/Feature Selection Approaches`
+
+#### Day 5
+
+- `Supervised Learning/Time Series Forecasting/What are Time Series and Forecasting`
+- `Supervised Learning/Time Series Forecasting/Adjustments for Time Series Data`
+- `Supervised Learning/Time Series Forecasting/Baseline Forecasts`
 
 ## Problem Sessions
 
