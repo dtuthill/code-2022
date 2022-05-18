@@ -74,6 +74,14 @@ In week 2 we will cover notebooks in:
 - `Supervised Learning/Time Series Forecasting/Stationarity and Autocorrelation`
 - `Supervised Learning/Time Series Forecasting/ARIMA`
 
+#### Day 7
+
+- `Supervised Learning/Classification/Adjustments for Classification`
+- `Supervised Learning/Classification/k Nearest Neighbors Classifier`
+- `Supervised Learning/Classification/The Confusion Matrix`
+- `Supervised Learning/Classification/Logistic Regression`
+    
+
 ## Problem Sessions
 
 This folder contains the jupyter notebooks we will use in our problem sessions.

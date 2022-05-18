@@ -80,4 +80,11 @@ Here is the order in which we covered the lecture notebooks in our synchronous Z
 - `Supervised Learning/Time Series Forecasting/6. Stationarity and Autocorrelation`
 - `Supervised Learning/Time Series Forecasting/7. ARIMA`
 
+### Day 7
+
+- `Supervised Learning/Classification/1. Adjustments for Classification`
+- `Supervised Learning/Classification/2. k Nearest Neighbors Classifier`
+- `Supervised Learning/Classification/3. The Confusion Matrix`
+- `Supervised Learning/Classification/4. Logistic Regression`
+
 
