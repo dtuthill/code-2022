@@ -74,4 +74,10 @@ Here is the order in which we covered the lecture notebooks in our synchronous Z
 - `Supervised Learning/Time Series Forecasting/2. Adjustments for Time Series Data`
 - `Supervised Learning/Time Series Forecasting/4. Baseline Forecasts`
 
+### Day 6
+
+- `Supervised Learning/Time Series Forecasting/5. Averaging and Smoothing`
+- `Supervised Learning/Time Series Forecasting/6. Stationarity and Autocorrelation`
+- `Supervised Learning/Time Series Forecasting/7. ARIMA`
+
 

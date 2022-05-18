@@ -68,6 +68,12 @@ In week 2 we will cover notebooks in:
 - `Supervised Learning/Time Series Forecasting/Adjustments for Time Series Data`
 - `Supervised Learning/Time Series Forecasting/Baseline Forecasts`
 
+#### Day 6
+
+- `Supervised Learning/Time Series Forecasting/Averaging and Smoothing`
+- `Supervised Learning/Time Series Forecasting/Stationarity and Autocorrelation`
+- `Supervised Learning/Time Series Forecasting/ARIMA`
+
 ## Problem Sessions
 
 This folder contains the jupyter notebooks we will use in our problem sessions.
