@@ -87,4 +87,10 @@ Here is the order in which we covered the lecture notebooks in our synchronous Z
 - `Supervised Learning/Classification/3. The Confusion Matrix`
 - `Supervised Learning/Classification/4. Logistic Regression`
 
+### Day 8
+
+- `Supervised Learning/Classification/5. Diagnostic Curves`
+- `Supervised Learning/Classification/6. Bayes' Based Classifiers`
+- `Unsupervised Learning/Dimension Reduction/1. Principal Components Analysis`
+
 

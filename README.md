@@ -80,6 +80,12 @@ In week 2 we will cover notebooks in:
 - `Supervised Learning/Classification/k Nearest Neighbors Classifier`
 - `Supervised Learning/Classification/The Confusion Matrix`
 - `Supervised Learning/Classification/Logistic Regression`
+
+#### Day 8
+
+- `Supervised Learning/Classification/Diagnostic Curves`
+- `Supervised Learning/Classification/Bayes' Based Classifiers`
+- `Unsupervised Learning/Dimension Reduction/Principal Components Analysis`
     
 
 ## Problem Sessions
@@ -119,6 +125,23 @@ This folder contains the jupyter notebooks we will use in our problem sessions.
 - `Problem Sessions/Problem Session 6`
 - `Problem Sessions/Problem Session 7`
 - `Problem Sessions/Problem Session 8`
+
+#### Week 3
+
+##### Prep Session Notebooks
+
+- `Problem Sessions/Prep Notebooks/Prep Notebook 9`
+- `Problem Sessions/Prep Notebooks/Prep Notebook 10`
+- `Problem Sessions/Prep Notebooks/Prep Notebook 11`
+- `Problem Sessions/Prep Notebooks/Prep Notebook 12`
+
+##### Problem Session Notebooks
+
+- `Problem Sessions/Problem Session 9`
+- `Problem Sessions/Problem Session 10`
+- `Problem Sessions/Problem Session 11`
+- `Problem Sessions/Problem Session 12`
+
 
 ## Practice Problems
 
