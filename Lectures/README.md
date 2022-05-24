@@ -93,4 +93,19 @@ Here is the order in which we covered the lecture notebooks in our synchronous Z
 - `Supervised Learning/Classification/6. Bayes' Based Classifiers`
 - `Unsupervised Learning/Dimension Reduction/1. Principal Components Analysis`
 
+### Day 9
+
+- `Unsupervised Learning/Dimension Reduction/1. Principal Components Analysis`
+- `Supervised Learning/Classification/9. Decision Trees`
+- `Supervised Learning/Classification/8. Support Vector Machines`
+
+### Day 10
+
+- `Supervised Learning/Ensemble Learning/1. What is Ensemble Learning`
+- `Supervised Learning/Ensemble Learning/2. Random Forests`
+- `Supervised Learning/Ensemble Learning/4. Boosting`
+- `Supervised Learning/Ensemble Learning/5. AdaBoost`
+- `Supervised Learning/Ensemble Learning/8. Voter Models`
+- `Supervised Learning/Ensemble Learning/6. Gradient Boosting`
+
 
