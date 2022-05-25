@@ -108,4 +108,11 @@ Here is the order in which we covered the lecture notebooks in our synchronous Z
 - `Supervised Learning/Ensemble Learning/8. Voter Models`
 - `Supervised Learning/Ensemble Learning/6. Gradient Boosting`
 
+### Day 11
+
+- `Neural Networks/1. Perceptrons`
+- `Neural Networks/2. The MNIST Data Set`
+- `Neural Networks/3. Multilayer Neural Networks`
+- `Neural Networks/4. keras`
+
 

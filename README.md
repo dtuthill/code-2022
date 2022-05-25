@@ -86,6 +86,28 @@ In week 2 we will cover notebooks in:
 - `Supervised Learning/Classification/Diagnostic Curves`
 - `Supervised Learning/Classification/Bayes' Based Classifiers`
 - `Unsupervised Learning/Dimension Reduction/Principal Components Analysis`
+
+#### Day 9
+
+- `Unsupervised Learning/Dimension Reduction/Principal Components Analysis`
+- `Supervised Learning/Classification/Decision Trees`
+- `Supervised Learning/Classification/Support Vector Machines`
+
+#### Day 10
+
+- `Supervised Learning/Ensemble Learning/What is Ensemble Learning`
+- `Supervised Learning/Ensemble Learning/Random Forests`
+- `Supervised Learning/Ensemble Learning/Boosting`
+- `Supervised Learning/Ensemble Learning/AdaBoost`
+- `Supervised Learning/Ensemble Learning/Voter Models`
+- `Supervised Learning/Ensemble Learning/Gradient Boosting`
+
+#### Day 11
+
+- `Neural Networks/Perceptrons`
+- `Neural Networks/The MNIST Data Set`
+- `Neural Networks/Multilayer Neural Networks`
+- `Neural Networks/keras`
     
 
 ## Problem Sessions
