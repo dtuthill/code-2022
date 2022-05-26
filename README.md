@@ -108,6 +108,13 @@ In week 2 we will cover notebooks in:
 - `Neural Networks/The MNIST Data Set`
 - `Neural Networks/Multilayer Neural Networks`
 - `Neural Networks/keras`
+
+#### Day 12
+
+- `Neural Networks/Introduction to Convolutional Neural Networks`
+- `Neural Networks/Introduction to Recurrent Neural Networks`
+- `Neural Networks/Loading Pre-Trained Models`
+- `Neural Networks/Future Directions`
     
 
 ## Problem Sessions

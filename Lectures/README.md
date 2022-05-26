@@ -115,4 +115,10 @@ Here is the order in which we covered the lecture notebooks in our synchronous Z
 - `Neural Networks/3. Multilayer Neural Networks`
 - `Neural Networks/4. keras`
 
+### Day 12
+
+- `Neural Networks/5. Introduction to Convolutional Neural Networks`
+- `Neural Networks/6. Introduction to Recurrent Neural Networks`
+- `Neural Networks/7. Loading Pre-Trained Models`
+- `Neural Networks/8. Future Directions`
 
