@@ -4,4 +4,11 @@ __pycache__
 .ipynb_checkpoints/
 TA_evaluation_materials.zip
 TA_evaluation_materials/
+<<<<<<< HEAD
 uk_gov/
+=======
+uk_gov/
+Keys/
+Plots/
+DataFrames/
+>>>>>>> 135160cec2d8c39b266bdff6efbf6a9128ae6d5e
